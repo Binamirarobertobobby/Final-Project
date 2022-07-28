@@ -230,7 +230,7 @@ Nakakatulong din ito sa atin.
 </html>
 
 ACTIVITY 4  "MENU/PERSONAL INFO"
-         MENU
+        
 <!DOCTYPE html>
 <html>
 <head>
@@ -360,7 +360,7 @@ ACTIVITY 4  "MENU/PERSONAL INFO"
 </body>
 </html>
 
-         PERSONAL INFO
+
 
 <!DOCTYPE html>
 <html lang="en">
